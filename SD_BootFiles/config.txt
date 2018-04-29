@@ -1,0 +1,2 @@
+boot_delay=1
+disable_overscan=1
