@@ -1,4 +1,4 @@
-# FreeRTOS ported to Raspberry Pi 3 Model B
+# Cache flushing with FreeRTOS on the Raspberry Pi 3
 Adapted from James Walmsley and Forty-Tw0 ports.
 FreeRTOS v7.2
 
